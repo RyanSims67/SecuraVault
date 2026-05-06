@@ -2,11 +2,11 @@
 A password Manager project for BSM-BCS-HI-10A (Task B)
 
 ## Git Commit
-![commit1](./Screenshots/commit.png)
-![commit2](./Screenshots/commit2.png)
+[commit1](Screenshots/commit.png)
+[commit2](Screenshots/commit2.png)
 
 ## Git Status
-[status](docs/Screenshots/status.png)
+[status](Screenshots/status.png)
 
 
 ## Git branch creation
