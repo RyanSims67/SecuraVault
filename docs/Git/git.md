@@ -1,8 +1,9 @@
 # Git (Task 1)
-A password Manager project for BSM-BCS-HI-10A (Task B)
+These are the following commands and screenshots I used while working on this project.
 
 ## Git Commit
 ![](Screenshots/commit.png)
+
 [](Screenshots/commit2.png)
 
 ## Git Status
