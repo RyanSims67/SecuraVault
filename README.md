@@ -6,10 +6,10 @@ A password Manager project for BSM-BCS-HI-10A (Task B)
 ## Checklist
 
 ## 1. GIT
-[Git Document](docs/requirements/git.md)
+[Git Document](docs/Git/git.md)
 
 ## 2. REQUIREMENTS
-
+[Requirements Document](docs/Requirements/requirements.md)
 
 ## 3. ANALYSIS
 
