@@ -6,3 +6,34 @@ A password Manager project for BSM-BCS-HI-10A (Task B)
 ## Checklist
 
 ## 1. GIT
+
+
+## 2. REQUIREMENTS
+
+
+## 3. ANALYSIS
+
+
+## 4. UML
+
+
+## 5. DDD
+
+
+## 6. CLEAN CODE DEVELOPMENT
+
+
+## 7. REFACTORING
+
+
+## 8. TESTING
+
+
+## 9. METRICS
+
+
+## 10. BUILD 
+
+
+## 11. CONTINOUS DELIVERY
+
