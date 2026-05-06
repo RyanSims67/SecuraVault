@@ -4,7 +4,7 @@ This Document presents the requirements specifications for this Password Manager
 
 ## Requirement Attributes
 1) ID
-2) Type - Functional / Quality / security
+2) Type - Functional / Quality / Security
 3) Priority - High / Medium / Low
 4) Status - Todo / In Progress / Done
 
@@ -29,3 +29,16 @@ This Document presents the requirements specifications for this Password Manager
 GitHub Projects
 
 [Requirements Board](https://github.com/users/RyanSims67/projects/1/views/1)
+
+
+## Screenshots
+[Requirements board view](Screenshots/requirements-board.png?raw=true)
+
+[Requirements table view](Screenshots/requirements-table.png?raw=true)
+
+
+## Other Files
+
+[Mission Document](mission.md)
+[Roadmap Document](roadmap.md)
+[Techstack Document](techstack.md)
