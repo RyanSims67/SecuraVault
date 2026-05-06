@@ -4,7 +4,7 @@ These are the following commands and screenshots I used while working on this pr
 ## Git Commit
 ![image](docs/Screenshots/commit.png?raw=true)
 
-[](Screenshots/commit2.png)
+![image2](docs/Screenshots/commit2.png?raw=true)
 
 ## Git Status
 [status](Screenshots/status.png)
