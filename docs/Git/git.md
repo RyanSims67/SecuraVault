@@ -2,7 +2,7 @@
 These are the following commands and screenshots I used while working on this project.
 
 ## Git Commit
-![](Screenshots/commit.png?raw=true)
+![image](docs/Screenshots/commit.png?raw=true)
 
 [](Screenshots/commit2.png)
 
