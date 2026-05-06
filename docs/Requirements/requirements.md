@@ -6,6 +6,7 @@ This Document presents the requirements specifications for this Password Manager
 1) ID
 2) Type - Functional / Quality / security
 3) Priority - High / Medium / Low
+4) Status - Todo / In Progress / Done
 
 ## Overview of Requirements
 
@@ -23,4 +24,8 @@ This Document presents the requirements specifications for this Password Manager
 | Q3 | Quality | Developers must be able to run automated tests for the core password manager logic. | Low |
 
 
+## Requirements Board
+### Tool Used
+GitHub Projects
 
+[Requirements Board](https://github.com/users/RyanSims67/projects/1/views/1)
