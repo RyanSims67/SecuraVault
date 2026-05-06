@@ -32,9 +32,9 @@ GitHub Projects
 
 
 ## Screenshots
-[Requirements board view](Screenshots/requirements-board.png?raw=true)
+![Requirements board view](Screenshots/requirements-board.png?raw=true)
 
-[Requirements table view](Screenshots/requirements-table.png?raw=true)
+![Requirements table view](Screenshots/requirements-table.png?raw=true)
 
 
 ## Other Files
