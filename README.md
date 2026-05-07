@@ -12,7 +12,7 @@ A password Manager project for Software Architecture BSM-BCS-HI-10A (Task B)
 [Requirements Document](docs/Requirements/requirements.md)
 
 ## 3. ANALYSIS
-
+[Analysis Document](docs/Analysis/analysis.md)
 
 ## 4. UML
 

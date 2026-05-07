@@ -25,6 +25,6 @@ This command creates a new branch called feature/requirements.
 
 ![merge](Screenshots/merge.png?raw=true)
 
-This command shows that the requirements branch was merging to my main branch.
+This command shows that the requirements branch was merged to my main branch.
 
 ## Git Time-travel
