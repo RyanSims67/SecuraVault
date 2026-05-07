@@ -28,10 +28,12 @@ This Document presents the requirements specifications for this Password Manager
 
 ## Requirements Board
 ### Tool Used
-GitHub Projects
+GitHub Projects // Trello
 
 [Requirements Board](https://github.com/users/RyanSims67/projects/1/views/1)
 
+
+[Trello Board](https://trello.com/b/AcJFzfJP/securavault-requirements-board)
 
 ## Screenshots
 ![Requirements board view](Screenshots/requirements-board.png?raw=true)
