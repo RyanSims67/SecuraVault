@@ -1,3 +1,5 @@
+[Back to Main Doc](README.md)
+
 # Requirements
 
 This Document presents the requirements specifications for this Password Manager project. The primary focus is to identify and structure the functional requirements which will guide the implementation of this project. 
@@ -40,5 +42,14 @@ GitHub Projects
 ## Other Files
 
 [Mission Document](mission.md)
+
 [Roadmap Document](roadmap.md)
+
 [Techstack Document](techstack.md)
+
+
+### Specifications + Validation (Task 2C)
+
+[Iteration 1](specifications_validation/iteration_1.md)
+
+[Iteration 2](specifications_validation/iteration_2.md)
