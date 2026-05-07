@@ -17,6 +17,14 @@ This command shows the current state of my working directory and compares whethe
 
 ## Git branch creation
 
+![creation](Screenshots/branch_creation.png?raw=true)
+
+This command creates a new branch called feature/requirements.
+
 ## Git branch merge
+
+![merge](Screenshots/merge.png?raw=true)
+
+This command shows that the requirements branch was merging to my main branch.
 
 ## Git Time-travel
