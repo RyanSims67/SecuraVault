@@ -2,6 +2,8 @@
 
 # Analysis
 
+NOTE: Based on the old version of the task.
+
 SecuraVault is a password manager project. This analysis describes the project idea, goals, users, risks, feasibility, process, stakeholders, and first system concepts before the design and implementation phase.
 
 The analysis follows selected points, especially vision, initial situation, market analysis, feasibility, risk analysis, quality assurance, technical prototype, process model, stakeholders, use cases, business/domain classes, and system interfaces.
