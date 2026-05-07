@@ -2,7 +2,7 @@
 
 # Techstack
 
-This document describes the planned technology for SecureVault.
+This document describes the planned technology for SecuraVault.
 
 #### Programming Language - Python
 

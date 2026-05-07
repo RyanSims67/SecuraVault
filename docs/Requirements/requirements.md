@@ -23,7 +23,7 @@ This Document presents the requirements specifications for this Password Manager
 | S1 | Security | Passwords must be encrypted before they are stored. | High |
 | Q1 | Quality | Developers must be able to easily change password generator settings. | High |
 | Q2 | Quality | Developers must be able to modify encryption settings without changing vault logic. | Medium |
-| Q3 | Quality | Developers must be able to run automated tests for the core password manager logic. | Low |
+| Q3 | Quality | Developers must be able to run automated tests for the core password manager logic. | Medium |
 
 
 ## Requirements Board
