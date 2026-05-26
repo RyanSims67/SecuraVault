@@ -29,11 +29,13 @@ A password Manager project for Software Architecture BSM-BCS-HI-10A (Task B)
 ## 8. TESTING
 
 
-## 9. METRICS
+## 9. BUILD
 
 
-## 10. BUILD 
+## 10. CONTINOUS DELIVERY 
 
 
-## 11. CONTINOUS DELIVERY
+## 11. METRICS
 
+
+## 12. ARCHITECTURE
