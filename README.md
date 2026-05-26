@@ -15,7 +15,7 @@ A password Manager project for Software Architecture BSM-BCS-HI-10A (Task B)
 [Analysis Document](docs/Analysis/analysis.md)
 
 ## 4. UML
-
+[UML Document](docs/UML/uml.md)
 
 ## 5. DDD
 
