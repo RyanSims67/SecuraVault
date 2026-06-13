@@ -9,7 +9,6 @@
 | Encryption | Encrypts password data before storage and keeps encryption logic separate from vault logic. | Password entry encrypted, encryption settings changed | S1, Q2 |
 | Password Generation | Generates strong random passwords and allows generator settings to change. | Strong random password generated, password generator settings changed | F5, Q1 |
 | Storage | Saves and loads encrypted password data. | Password data stored | S1 |
-| Testing / Quality Assurance | Supports automated testing for the core password manager logic. | Automated tests executed | Q3 |
 
 
 ## Future Domains

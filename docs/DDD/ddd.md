@@ -33,3 +33,4 @@ SecuraVault is a basic password manager. The application allows users to create,
 | [Domains](domains.md) |
 | [Core Domain Chart](core-domain-chart.md) |
 | [Bounded Context Canvas](bounded-context-canvas.md) |
+| [Domain Mapping](domain-mapping.md) |
