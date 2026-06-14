@@ -11,7 +11,6 @@ if ($LASTEXITCODE -ne 0) {
 Write-Host "Running Pylint..."
 python -m pylint src --exit-zero
 
-
 Write-Host "Building SecuraVault package..."
 python -m build
 
