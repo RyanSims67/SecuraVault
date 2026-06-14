@@ -7,9 +7,9 @@ from src.services.encryption_service import EncryptionService
 
 
 class FileStorage:
-    def __init__(self, file_path=STORAGE_FILE):
+    def __init__(self, file_path=STORAGE_FILE, encryption=None):
         self.file_path = Path(file_path)
-        self.encryption = EncryptionService()
+        self.encryption = encryption or EncryptionService()
 
     def save_entries(self, entries):
         self.file_path.parent.mkdir(parents=True, exist_ok=True)
