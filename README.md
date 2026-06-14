@@ -44,3 +44,5 @@ A password Manager project for Software Architecture BSM-BCS-HI-10A (Task B)
 [Metrics Document](docs/Metrics/metrics.md)
 
 ## 12. ARCHITECTURE
+
+[Architecture Document](docs/Architecture/architecture.md)
