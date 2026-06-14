@@ -24,19 +24,46 @@ This document describes the planned technology for SecuraVault.
 ## Planned Project Structure
 
 ```text
-src/
-    __init__.py
-    vault_entry.py
-    vault_service.py
-    password_generator.py
-    encryption_service.py
-    validation.py
-    main.py
+securavault/
+    config/ 
+        __init__.py 
+        settings.py
+    
+    data/
 
-tests/
-    test_password_generator.py
-    test_encryption_service.py
-    test_vault_service.py
+    src/
+        __init__.py
+
+        models/ 
+            __init__.py 
+            password_entry.py 
+
+        services/ 
+            __init__.py 
+            vault_service.py 
+            password_generator.py 
+            encryption_service.py 
+            validation.py 
+            
+        storage/ 
+            __init__.py 
+            file_storage.py 
+        
+        ui/ 
+            __init__.py 
+            cli.py
+
+    tests/
+        test_password_generator.py
+        test_encryption_service.py
+        test_vault_service.py
+        test_file_storage.py
+
+    README.md 
+    requirements.txt 
+    pyproject.toml
+
+
 
 docs/
     Analysis/
