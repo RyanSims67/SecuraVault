@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "securavault"
+version = "0.1.0"
+description = "A basic local password manager"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "cryptography"
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["src*", "config*"]
