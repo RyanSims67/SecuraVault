@@ -6,7 +6,7 @@ I reviewed my SecuraVault code and selected examples that made the project easie
 
 ## Example 1 — Clear Function Names
 
-Location: [test_vault_service.py](../../securavault/tests/test_vault_service.py)
+Location: [test_vault_service.py](../../securavault/src/services/vault_service.py)
 
 ```text
 securavault/src/services/vault_service.py
