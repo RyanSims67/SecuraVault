@@ -5,7 +5,7 @@
 
 SecuraVault is a basic password manager created for this project.
 
-## Planned Features
+## Features included
 
 - Create password entries
 - View saved password entries
