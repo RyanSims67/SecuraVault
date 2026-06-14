@@ -91,4 +91,24 @@ def test_mock_storage_save():
     storage.save_entries.assert_called_once()
 ```
 
-![Mock test passed](screenshots/coverage.png?raw=true)
+![Mock test passed](screenshots/test-mock.png?raw=true)
+
+
+
+## Tests Passed
+
+### Test encryption service
+
+![encryption](../Requirements/specifications_validation/iteration3_screenshots/test-encryption-service.png?raw=true)
+
+### Test file storage
+
+![storage](../Requirements/specifications_validation/iteration3_screenshots/test-file-storage.png?raw=true)
+
+### Test password generator
+
+![generator](../Requirements/specifications_validation/iteration3_screenshots/test-password-generator.png?raw=true)
+
+### Test Vault service
+
+![vault](../Requirements/specifications_validation/iteration3_screenshots/test-vault-service.png?raw=true)
