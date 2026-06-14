@@ -20,6 +20,7 @@ SecuraVault is a basic password manager created for this project.
 - `src/models/` – domain models
 - `src/services/` – application logic
 - `src/storage/` – local persistence
-- `src/ui/` – CLI or GUI entry point
+- `src/ui/` – CLI and GUI entry points
 - `tests/` – unit tests
 - `data/` – local application data
+- `config/` – configuration values and file paths
