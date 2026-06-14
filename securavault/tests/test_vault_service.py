@@ -1,4 +1,5 @@
 import pytest
+from unittest.mock import Mock
 
 from src.services.vault_service import VaultService
 
@@ -120,8 +121,22 @@ def test_invalid_id_raises_error():
         vault.delete_entry("wrong-id")
 
 
-
 def test_new_vault_starts_empty():
     vault = create_vault()
 
     assert vault.view_entries() == []
+
+
+def test_mock_storage_save():
+    storage = Mock()
+    storage.load_entries.return_value = []
+
+    vault = VaultService(storage)
+
+    vault.create_entry(
+        "GitHub",
+        "test@gmail.com",
+        "Test123!"
+    )
+
+    storage.save_entries.assert_called_once()
