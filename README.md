@@ -40,7 +40,7 @@ Github Link: https://github.com/RyanSims67/SecuraVault.git
 [Build Document](docs/Buildcode/build.md)
 
 ## 10. CONTINUOUS DELIVERY 
-[Continuous delivery Document](docs/Continous_Delivery/delivery.md)
+[Continuous delivery Document](docs/Continuous_Delivery/delivery.md)
 
 ## 11. METRICS
 [Metrics Document](docs/Metrics/metrics.md)
