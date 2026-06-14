@@ -19,11 +19,11 @@ The goal of Iteration 2 is to add the main specific features for SecuraVault: pa
 | Feature | Required | Description |
 |---|---|---|
 | Password Generator | Yes | Creates strong random passwords. |
-| Generator Settings | Yes | Allows password length and character options to be changed. |
+| Generator Settings | Yes | Allows the default password length to be changed. |
 | Password Encryption | Yes | Encrypts password values before storage. |
 | Encryption Separation | Yes | Keeps encryption logic separate from vault logic. |
 | Search | Yes | Allows users to search saved password entries. |
-| Search Fields | Yes | Supports search by title, username, and URL. |
+| Search Fields | Yes | Supports search by title and username. |
 
 ## Planned Files
 
@@ -45,7 +45,6 @@ Iteration 2 is valid when password generation, encryption, and search work corre
 |---|---|---|
 | Generate password | A random password is generated. | Passed |
 | Password length setting | The generated password uses the configured length. | Passed |
-| Password character settings | The generated password can use configured character groups. | Passed |
 | Encrypt password | A plain password is converted into an encrypted value. | Passed |
 | Encrypted value differs from plain text | The stored encrypted value is not the same as the original password. | Passed |
 | Decrypt password | The encrypted value can be decrypted when needed. | Passed |
