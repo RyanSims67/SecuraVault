@@ -2,6 +2,9 @@
 
 # Iteration 2
 
+Iteration 2 was developed and tested on the [`feature/iteration-2`](https://github.com/RyanSims67/SecuraVault/tree/feature/iteration-2) branch.
+
+
 ## Goal
 
 The goal of Iteration 2 is to add the main specific features for SecuraVault: password generation, password encryption, and search functionality.
