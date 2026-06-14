@@ -30,3 +30,9 @@ This command creates a new branch called feature/requirements.
 This command shows that the requirements branch was merged to my main branch.
 
 ## Git Time-travel
+
+![past1](Screenshots/past.png?raw=true)
+
+![past2](Screenshots/past2.png?raw=true)
+
+This command resets back to a past commit made in the same branch.

@@ -37,8 +37,8 @@ A password Manager project for Software Architecture BSM-BCS-HI-10A (Task B)
 ## 9. BUILD
 [Build Document](docs/Buildcode/build.md)
 
-## 10. CONTINOUS DELIVERY 
-[Continous delivery Document](docs/Continous_Delivery/delivery.md)
+## 10. CONTINUOUS DELIVERY 
+[Continuous delivery Document](docs/Continous_Delivery/delivery.md)
 
 ## 11. METRICS
 [Metrics Document](docs/Metrics/metrics.md)
