@@ -60,13 +60,13 @@ The goal of Iteration 3 is to verify that the main SecuraVault features work cor
 
 ### Test mock - save in storage
 
-![mock](iteration3_screenshots/test-mock.png)
+![mock](iteration3_screenshots/test-mock.png?raw=true)
 
 
 ### Pylint Test
 
-![1](iteration3_screenshots/test-pylint-1.png)
+![1](iteration3_screenshots/test-pylint-1.png?raw=true)
 
-![2](iteration3_screenshots/test-pylint-2.png)
+![2](iteration3_screenshots/test-pylint-2.png?raw=true)
 
-![3](iteration3_screenshots/test-pylint-3.png)
+![3](iteration3_screenshots/test-pylint-3.png?raw=true)
