@@ -44,7 +44,7 @@ Iteration 1 was developed and tested on the [`feature/securavault-deploy`](https
 
 ### Menu
 
-![create](iteration1_screenshots/iteration1-menu.png?raw=true)
+![menu](iteration1_screenshots/iteration1-menu.png?raw=true)
 
 
 ### Create Password entry
