@@ -55,3 +55,5 @@ GitHub Projects // Trello
 [Iteration 1](specifications_validation/iteration_1.md)
 
 [Iteration 2](specifications_validation/iteration_2.md)
+
+[Iteration 3](specifications_validation/iteration_3.md)
