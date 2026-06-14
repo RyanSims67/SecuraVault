@@ -6,7 +6,7 @@ The Continuous Delivery task can be found in the [GitHub Actions file](../../.gi
 
 ## Goal
 
-The goal to automatically test and build SecuraVault whenever code is pushed to GitHub.
+The goal is to automatically test and build SecuraVault whenever code is pushed to GitHub.
 
 ## Tool Used
 
