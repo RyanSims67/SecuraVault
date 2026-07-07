@@ -21,6 +21,8 @@ Github Link: https://github.com/RyanSims67/SecuraVault.git
 ## 3. ANALYSIS
 [Analysis Document](docs/Analysis/analysis.md)
 
+[Analysis - Part B Document](docs/Analysis/ai-analysis.md)
+
 ## 4. UML
 [UML Document](docs/UML/uml.md)
 
